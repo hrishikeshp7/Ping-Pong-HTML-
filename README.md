@@ -1,2 +1,2 @@
 # Ping-Pong-HTML-
-The Classic Ping Pong Game 
+The Classic Sliders Ping Pong Game Try: [https://sliders-game.netlify.app/]
